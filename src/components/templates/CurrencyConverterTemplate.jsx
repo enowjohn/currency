@@ -1,5 +1,5 @@
 // src/components/templates/CurrencyConverterTemplate.jsx
-import React from 'react';
+// import React from 'react';
 import CurrencyConverter from '../organisms/CurrencyConverter';
 
 const CurrencyConverterTemplate = () => (

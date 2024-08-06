@@ -1,5 +1,5 @@
 // src/components/organisms/CurrencyConverter.jsx
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import axios from 'axios';
 import CurrencySelector from '../molecules/CurrencySelector';
 import Input from '../atoms/Input';

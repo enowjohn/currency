@@ -1,4 +1,4 @@
-import HomePage from './components/pages/HomePage';
+import HomePage from '../src/components/pages/HomePage.jsx';
 import './App.css';
 import './components/CoverPage'
 
